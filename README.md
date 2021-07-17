@@ -1,4 +1,4 @@
 **Projetos voltados a Area da Programação**
-[www.google.com.br](www.google.com.br) 
+[curriculo.html](curriculo.html) 
 *Nome:* Alex dos santos 
 ##
